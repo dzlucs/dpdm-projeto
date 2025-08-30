@@ -30,9 +30,7 @@ Organizar funcionalidades a serem implementadas, atualizadas a cada Checkpoint
         
 ## 🖼️ Protótipos de tela: 
 
-Projetar os protótipos das telas no Figma e incluir o link para visualização pública no Readme.md
-
-Opcionalmente, use os recursos de interatividade do figma para demonstrar os fluxos entre as telas.
+[Figma - com protótipo navegável](https://www.figma.com/design/LHuHm5ywInZrjJENh0Nezo/Pok%C3%A9Party?node-id=3-41429&t=Psyi8FBeSv6wkiwN-1)
 
 ## 🏦 Modelagem do banco: 
 
