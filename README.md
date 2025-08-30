@@ -2,15 +2,11 @@
 
 ## Sobre o app:
 
-Como neste ano comemoro uma idade bastante emblemática da minha vida, ~~30~~ 20 anos.
-
-Planejei (com antecedência para não poder desistir quando chegar o dia) uma festa com a temática de um dos meus jogos favoritos: Pokémon.
+Como neste ano comemoro uma idade bastante emblemática da minha vida, ~~30~~ 20 anos, resolvi planejar (com antecedência para não poder desistir quando chegar o dia) uma festa com a temática de um dos meus jogos favoritos: Pokémon.
 
 Convidei meus amigos para uma festa na qual eles tem que confirmar a presença e, de quebra, me informar qual a cor de roupa irão & o Pokémon que inspirou a escolha.
 
-Infelizmente, por conta do pouco tempo entre a ideia e a data, não consegui desenvolver nem um site para isso, então tive que usar uma planilha. 
-
-Porém, nesta disciplina, irei desenvolver a ideia e criar, de fato, um app para esse registro de presença e escolhas dos convidados.
+Infelizmente, por conta do pouco tempo entre a ideia e a data, não consegui desenvolver nem um site para isso, então tive que usar uma planilha. Porém, nesta disciplina, irei desenvolver a ideia e criar, de fato, um app para esse registro de presença e escolhas dos convidados.
 
 O app mostrará, de imediato, uma lista de todos que já confirmaram presença;
 
