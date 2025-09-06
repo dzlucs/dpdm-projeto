@@ -34,7 +34,28 @@ Organizar funcionalidades a serem implementadas, atualizadas a cada Checkpoint
 
 ## 🏦 Modelagem do banco: 
 
-Projetar a modelagem do banco de dados (seja local ou remoto) e incluir um link para visualização pública no Readme.md
+1. O banco de dados utilizado será do tipo relacional, composto por uma única tabela chamada Convidados. Esta escolha se dá pelo fato de ser relativamente simples (em teoria) de se conseguir o que se espera de uma lista assim.
+2. Esta tabela armazena os dados necessários para gerenciar as confirmações de presença e a escolha de pokémons dos convidados da festa.
+
+Entidade: Convidado
+Atributos:
+
+    id (inteiro, chave primária, autoincremento)
+    nome (texto, obrigatório)
+    pokemon (texto, obrigatório, único)
+    presenca (booleano, obrigatório)
+
+Exemplo de tabela:
+| id | nome  | pokemon | presenca | data_confirmacao       |
+|----|-------|----------|----------|------------------------|
+| 1  | Ash   | Pikachu | true     | 2025-09-06 14:00:00    |
+| 2  | Misty | Psyduck | true     | 2025-09-06 14:05:00    |
+
+
+
+---
+
+<!-- Projetar a modelagem do banco de dados (seja local ou remoto) e incluir um link para visualização pública no Readme.md
 
 Se o banco for relacional, apresente um diagrama entidade relacionamento representando as tabelas, relações e atributos;
 
@@ -43,6 +64,8 @@ Se o banco for NoSQL, apresente os Schemas dos dados gerados, acessados ou manip
 Se não houver persistência de dados local e o banco for completamente remoto, como uma API manipulada pelo App, envie a modelagem do banco de dados remoto (ou a parcela manipulada pelo App, caso o contexto total seja muito abrangente);
 
 Dica: você pode usar a ferramenta https://app.diagrams.net/ (antigo draw.io) para produzir essas modelagens e gerar um link de visualização pública. Alternativamente, você pode usar outra ferramenta de sua preferência, exportar como imagem e incluir no próprio Readme usando a tag de imagem do markdown ou ainda hospedar no Google Drive, com link público.
+
+-->
 
 ## 🏃 Planejamento de sprints: 
 
