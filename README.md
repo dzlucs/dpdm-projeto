@@ -37,6 +37,10 @@ Organizar funcionalidades a serem implementadas, atualizadas a cada Checkpoint
 1. O banco de dados utilizado será do tipo relacional, composto por uma única tabela chamada Convidados. Esta escolha se dá pelo fato de ser relativamente simples (em teoria) de se conseguir o que se espera de uma lista assim.
 2. Esta tabela armazena os dados necessários para gerenciar as confirmações de presença e a escolha de pokémons dos convidados da festa.
 
+Representação:
+
+![Diagrama ER](assets/diag_pdpm_pokeparty.png)
+
 Entidade: Convidado
 Atributos:
 
